@@ -1,0 +1,21 @@
+{
+	"name": "theme-batman",
+	"description": "A dark theme inspired by the Dark Knight himself. https://github.com/welborni",
+	"version": "0.0.1",
+	"publisher": "skaggej",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Batman",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Batman.tmTheme"
+			}
+		]
+	}
+}
